@@ -1,0 +1,4 @@
+C:\Workspace\service.procalculo\Model\bin\Debug\Model.dll
+C:\Workspace\service.procalculo\Model\bin\Debug\Model.pdb
+C:\Workspace\service.procalculo\Model\obj\Debug\Model.dll
+C:\Workspace\service.procalculo\Model\obj\Debug\Model.pdb

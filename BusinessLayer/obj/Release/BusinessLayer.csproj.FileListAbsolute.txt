@@ -1,0 +1,9 @@
+C:\Workspace\service.procalculo\BusinessLayer\bin\Release\DataAccess.dll
+C:\Workspace\service.procalculo\BusinessLayer\bin\Release\Model.dll
+C:\Workspace\service.procalculo\BusinessLayer\bin\Release\DataAccess.pdb
+C:\Workspace\service.procalculo\BusinessLayer\bin\Release\Model.pdb
+C:\Workspace\service.procalculo\BusinessLayer\obj\Release\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Workspace\service.procalculo\BusinessLayer\bin\Release\BusinessLayer.dll
+C:\Workspace\service.procalculo\BusinessLayer\bin\Release\BusinessLayer.pdb
+C:\Workspace\service.procalculo\BusinessLayer\obj\Release\BusinessLayer.dll
+C:\Workspace\service.procalculo\BusinessLayer\obj\Release\BusinessLayer.pdb

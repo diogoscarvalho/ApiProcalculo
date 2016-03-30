@@ -1,0 +1,15 @@
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\DataAccess.dll
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\Model.dll
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\System.Web.Http.dll
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\System.Web.Http.WebHost.dll
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\Model.pdb
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\System.Web.Http.xml
+C:\Workspace\service.procalculo\DataAccess\bin\Debug\System.Web.Http.WebHost.xml
+C:\Workspace\service.procalculo\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Workspace\service.procalculo\DataAccess\obj\Debug\DataAccess.dll
+C:\Workspace\service.procalculo\DataAccess\obj\Debug\DataAccess.pdb
