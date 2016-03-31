@@ -17,7 +17,7 @@ namespace service.procalculo
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Help", action = "Index", id = UrlParameter.Optional }
-            ).DataTokens = new RouteValueDictionary(new { area = "HelpPage" }); ;
+            ).DataTokens = new RouteValueDictionary(new { area = "HelpPage" });
         }
     }
 }

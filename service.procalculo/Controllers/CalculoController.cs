@@ -17,7 +17,9 @@ namespace service.procalculo.Controllers
         /// <summary>
         /// Consulta um cálculo para acompanhamento de status
         /// </summary>
-        /// <param name="consultaCalculosReq">Objeto contendo as informações do cálculo passíveis de consulta</param>
+        /// <param name="consultaCalculosReq">Objeto contendo as informações do cálculo passíveis de consulta
+        /// IdSolicitacao, IdCliente(obrigatório), DataSolicitacao e Status
+        /// </param>
         /// <returns>Um objeto json com informações do calculo</returns>
         [AcceptVerbs("GET")]
         public async Task<HttpResponseMessage> Search([FromUri]Model.Req.ConsultaCalculosReq consultaCalculosReq)

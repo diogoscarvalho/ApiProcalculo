@@ -400,7 +400,9 @@
             <summary>
             Consulta um cálculo para acompanhamento de status
             </summary>
-            <param name="consultaCalculosReq">Objeto contendo as informações do cálculo passíveis de consulta</param>
+            <param name="consultaCalculosReq">Objeto contendo as informações do cálculo passíveis de consulta
+            IdSolicitacao, IdCliente(obrigatório), DataSolicitacao e Status
+            </param>
             <returns>Um objeto json com informações do calculo</returns>
         </member>
         <member name="M:service.procalculo.Controllers.CalculoController.Report(System.Int32[])">
